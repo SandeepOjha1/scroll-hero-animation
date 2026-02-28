@@ -8,7 +8,7 @@ This project demonstrates scroll-linked animations, staggered intro effects, and
 
 ## 🔗 Live Demo
 
-👉 https://SandeepOjha1.github.io/scroll-hero-animation/
+👉 [https://SandeepOjha1.github.io/scroll-hero-animation/](https://scroll-hero-animation-indol.vercel.app/)
 
 ---
 
